@@ -1,0 +1,1 @@
+- An mga Aswang: A bikol belief by [[Francis X. Lynch]]- The Aswang Inquiry now 

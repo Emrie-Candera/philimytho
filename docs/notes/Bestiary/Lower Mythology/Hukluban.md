@@ -21,7 +21,7 @@ image: Hukluban.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 ### About 
 The [[Hukluban|Hukluban]] is a witch that can kill people simply by lifting tis fingers. It looks like an old lady with wrinkled skin, but it can also change its form according to its whims. [^1]
@@ -38,6 +38,7 @@ It has the ability also heal quite easily. [^1]
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---

@@ -19,7 +19,7 @@ image: Tamawo.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
 The [[Tamawo|Tamawo]] is a magical creature who doesn't have a gap between its mouth and nose. It has [[Tigadlum]], which is the power to become invisible. They can also take the form of animals such as dogs or carabaos. [^1]
@@ -40,6 +40,7 @@ They are not inherently hostile, although they are quite mischievous. They kidna
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

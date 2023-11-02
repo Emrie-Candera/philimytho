@@ -19,7 +19,7 @@ image: Ambaboy.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
 The [[Ambaboy|Ambaboy]] is a [[Pinading]] (nature guardians) who lives in sacred trees like the [[Sakkang]]. They are usually seen in the form of a giant snake. [^1]
@@ -34,6 +34,7 @@ In other cases, the [[Ifugao]] conduct the [[Umalih]], or calling the soul of th
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

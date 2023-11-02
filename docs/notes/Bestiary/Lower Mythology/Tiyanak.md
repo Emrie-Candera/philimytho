@@ -28,7 +28,7 @@ image: Tiyanak.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
 [[Tiyanak|Tiyanaks]] are said to be the souls of the unbaptized babies. They are usually playful and love to lead travelers astray. They have the ability to shapeshift and become invisible to fool their victims. [^1]
@@ -52,6 +52,7 @@ They usually pretend to be real babies. They can be found crying by a tree by a 
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

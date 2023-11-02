@@ -19,7 +19,7 @@ image: Mantiw.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
 The [[Mantiw|Mantiw]] is very thin and as tall as the tallest trees such as palm trees. It has hairy black skin. It often leans against Kapok Trees (cotton trees) while chewing [[Betel nuts|nganga]] or smoking tobacco. 
@@ -32,6 +32,7 @@ They are usually not harmful. They live in the forest to avoid humans. However, 
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

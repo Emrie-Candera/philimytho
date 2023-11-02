@@ -3,12 +3,13 @@ aliases: []
 image: "{{title}}.jpg"
 template-output: Bestiary/'Inbox
 ---
+
 > [! infobox]
 > # {{title}}
 > **Image**:: ![[]]
 > ###### About
 > **Also-Called**:: 
-> **Category**:: {{Category:multi:[[../../Bestiary/Classifications/Samar Taxonomy/Aswang|Aswang]][[../../Bestiary/Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]}}
+> **Category**:: {{Category:multi:[[../../Bestiary/Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]][[../../Bestiary/Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]}}
 > **Origin**:: {{Origin}}
 > **Related**:: {{Related}}
 > ###### Appearance

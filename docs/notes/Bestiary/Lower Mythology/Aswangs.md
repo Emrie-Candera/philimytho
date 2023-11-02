@@ -23,7 +23,7 @@ image: Aswang.png
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
  
 h a category ^[basing on [[../../Library/Reference Books/Mga Nilalang na Kagila-gilalas|Mga Nilalang na Kagila-gilalas]]] and a standalone creature (commonly translated to English as *vampire*). 
 
@@ -41,7 +41,6 @@ h a category ^[basing on [[../../Library/Reference Books/Mga Nilalang na Kagila-
 
 
 ### Other Mentions
-- [[./Amalanhig|Amalanhig]]
 - [[./Danag|Danag]]
 - [[../Classifications/Ramos Taxonomy/'Main Note|Ramos Taxonomy]]
 

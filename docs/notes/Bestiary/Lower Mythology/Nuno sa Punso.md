@@ -20,10 +20,10 @@ image: Nuno sa Punso.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
-The [[Nuno sa Punso|Nuno sa Punso]] is an old [[../Classifications/Samar Taxonomy/Lamanlupa|lamanlupa]] that lives on its own in a *punso* (mound). It usually doesn't reach 3 feet, often with a long beard and bent back. Its skin is reddish and is often depicted holding a staff. [^1]
+The [[Nuno sa Punso|Nuno sa Punso]] is an old [[../Classifications/Samar Taxonomy/Mga Lamanlupa|lamanlupa]] that lives on its own in a *punso* (mound). It usually doesn't reach 3 feet, often with a long beard and bent back. Its skin is reddish and is often depicted holding a staff. [^1]
 
 The [[Nuno sa Punso|Nuno sa Punso]] is powerful and can be friendly or hostile to the humans they encounter. They usually bring sickness to those that destroy the mound it lives in. This is the reason why people don't touch the mounds that grow in their backyards. The victim's eyes and hands swell, hair grows over their whole body, and their urine becomes black. [^1]
 
@@ -38,6 +38,7 @@ Similar to the [[./Ansisit|Ansisit]], people say "Tabi Tabi po" when passing by 
 
 ### Other Mentions
 - [[./Ansisit|Ansisit]]
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

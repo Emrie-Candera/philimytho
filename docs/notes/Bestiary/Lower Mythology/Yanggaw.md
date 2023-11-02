@@ -21,11 +21,11 @@ image: Yanggaw.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ### About 
-Newly turned [[../Classifications/Samar Taxonomy/Aswang|Aswangs]], aka humans who were turned to [[../Classifications/Samar Taxonomy/Aswang|aswangs]] by other [[../Classifications/Samar Taxonomy/Aswang|aswangs]].
+Newly turned [[../Classifications/Samar Taxonomy/Mga Aswang|Aswangs]], aka humans who were turned to [[../Classifications/Samar Taxonomy/Mga Aswang|aswangs]] by other [[../Classifications/Samar Taxonomy/Mga Aswang|aswangs]].
 
 
 ---
@@ -33,6 +33,7 @@ Newly turned [[../Classifications/Samar Taxonomy/Aswang|Aswangs]], aka humans wh
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---

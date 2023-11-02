@@ -33,10 +33,10 @@ image: Manananggal.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
-A [[Manananggal|Manananggal]] is a type of [[../Classifications/Samar Taxonomy/Aswang|Aswang]] that has the ability to halve its body at night during the full moon. They grow wings, fangs and very sharp nails, with legs and feet that look like banana trees  [^1]
+A [[Manananggal|Manananggal]] is a type of [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]] that has the ability to halve its body at night during the full moon. They grow wings, fangs and very sharp nails, with legs and feet that look like banana trees  [^1]
 
 During the day, the [[Manananggal|manananggal]] appears as an attractive woman with long hair and light skin. [^1]
 
@@ -63,6 +63,7 @@ During the day, the [[Manananggal|manananggal]] appears as an attractive woman w
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---

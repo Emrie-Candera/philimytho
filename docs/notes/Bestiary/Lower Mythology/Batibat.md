@@ -21,10 +21,10 @@ image: Batibat.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
-The [[Batibat|Batibat]] is a type of [[../Classifications/Samar Taxonomy/Lamanlupa|lamanlupa]] that targets gluttons while they are asleep and alone in their room. 
+The [[Batibat|Batibat]] is a type of [[../Classifications/Samar Taxonomy/Mga Lamanlupa|lamanlupa]] that targets gluttons while they are asleep and alone in their room. 
 
 They are described as a very big woman who appears in people's dreams.
 
@@ -35,7 +35,7 @@ The [[Batibat|Batibat]] lives in trees, and does not leave that tree even if it 
 
 ---
 ##### Surviving Them
-- To survive a [[Batibat|batibat]]'s attack, the victim has to bite their own thumb or move their toes. Once the victim survives the [[Batibat|batibat]], he becomes a [[Naluganan]] ^[human possesed by souls of the dead, or by the demon] and gains the power to see [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]] and other creatures. 
+- To survive a [[Batibat|batibat]]'s attack, the victim has to bite their own thumb or move their toes. Once the victim survives the [[Batibat|batibat]], he becomes a [[Naluganan]] ^[human possesed by souls of the dead, or by the demon] and gains the power to see [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]] and other creatures. 
 
 
 ---
@@ -43,6 +43,7 @@ The [[Batibat|Batibat]] lives in trees, and does not leave that tree even if it 
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

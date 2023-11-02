@@ -19,10 +19,10 @@ image: Daligmata.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
-[[Daligmata|Daligmata]] is a [[../Classifications/Samar Taxonomy/Lamanlupa|lamanlupa]] in animal form, full of big and shining eyes, which can only be seen at night. [^1]
+[[Daligmata|Daligmata]] is a [[../Classifications/Samar Taxonomy/Mga Lamanlupa|lamanlupa]] in animal form, full of big and shining eyes, which can only be seen at night. [^1]
 
 In some instances, the [[Daligmata|Daligmata]] helps people finding lost things, as well as during the [[Gudguden]] ritual to heal those who are sick or had their souls stolen. [^1]
 
@@ -33,6 +33,7 @@ There are other cases where the [[Daligmata|Daligmata]] itself steals the souls 
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

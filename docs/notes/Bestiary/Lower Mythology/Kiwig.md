@@ -23,9 +23,9 @@ image: Kiwig.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
-A [[Kiwig|Kiwig]] is an [[../Classifications/Samar Taxonomy/Aswang|Aswang]] who lives among humans during the day, but morphs into an animal like a hog or a big cat at night. [^1]
+A [[Kiwig|Kiwig]] is an [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]] who lives among humans during the day, but morphs into an animal like a hog or a big cat at night. [^1]
 
 It enters homes to kill humans, especially children who don't stop crying. It bites the victim in the neck before eating them. It also kills pregnant women roaming the streets, especially those with their hair up. [^1]
 
@@ -44,6 +44,7 @@ They usually pretend to be street vendors who go to towns with pregnant women to
 
 ### Other Mentions
 - [[./Danag|Danag]]
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---

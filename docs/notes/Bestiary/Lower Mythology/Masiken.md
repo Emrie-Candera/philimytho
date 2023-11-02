@@ -19,12 +19,12 @@ image: Masiken.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
 To the Igorot, [[Masiken|Masiken]] is the guardian of the underworld, which they also believe to be the world of the dead. [^1]
 
-He lives in the rocky area of a river or forest, that is part of the underworld. Because of his powers, he is considered as a [[bathala]] by the other [[../Classifications/Samar Taxonomy/Lamanlupa|lamanlupa]] [^1]
+He lives in the rocky area of a river or forest, that is part of the underworld. Because of his powers, he is considered as a [[bathala]] by the other [[../Classifications/Samar Taxonomy/Mga Lamanlupa|lamanlupa]] [^1]
 
 The [[Igorot]] conduct the [[Ampasit]] ritual for [[Masiken|Masiken]] where they offer chickens and other animals so that he does not take their sick, and instead heal them. [^1]
 
@@ -33,6 +33,7 @@ The [[Igorot]] conduct the [[Ampasit]] ritual for [[Masiken|Masiken]] where they
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 
 ---

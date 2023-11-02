@@ -21,7 +21,7 @@ image: Amalanhig.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[./Aswangs|Aswangs]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 ### About 
 The [[Amalanhig|amalanhig]] is an [[Bestiary/Lower Mythology/Aswang|aswang]] that has died and resurrected. [^1]

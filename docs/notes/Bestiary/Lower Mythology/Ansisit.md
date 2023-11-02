@@ -19,10 +19,10 @@ image: Ansisit.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Lamanlupa|Lamanlupa]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 
 ### About 
-They are [[../Classifications/Samar Taxonomy/Lamanlupa|lamanlupa]] who hate the dust from house sweeping. [^1]
+They are [[../Classifications/Samar Taxonomy/Mga Lamanlupa|lamanlupa]] who hate the dust from house sweeping. [^1]
 
 Its size ranges from that of a finger to 1 1/2 *dipa* ^[the width from one middle finger to another with two extended arms; around 5.6ft]  [^1]
 
@@ -43,6 +43,7 @@ On the other hand, children can befriend an [[Ansisit|ansisit]]. They usually as
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Lamanlupa|Mga Lamanlupa]]
 - [[./Nuno sa Punso|Nuno sa Punso]]
 
 

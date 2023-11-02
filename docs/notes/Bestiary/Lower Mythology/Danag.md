@@ -21,7 +21,7 @@ image: Danag.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
  
 The [[./Kiwig|Kiwig]] are believed to have started as heavenly creatures who went to earth to help humans learn agriculture. However, when a human accidentally pricked themselves with bamboo, a [[./Kiwig|danag]] helped the human by sucking the bamboo from the human's finger. Because of that, the [[./Kiwig|danag]] tasted human blood and found it to be sweet. He shares this with the other [[./Kiwig|danag]] and they worked together to suck the blood out of one human. Ever since, the [[./Kiwig|danag]] became [[./Aswangs|aswangs]] who live by consuming blood.  [^1]
 
@@ -31,6 +31,7 @@ The [[./Kiwig|Kiwig]] are believed to have started as heavenly creatures who wen
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---

@@ -29,7 +29,7 @@ image: Mangkukulam.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 ### About 
 The [[Mangkukulam|Mangkukulam]] lives in abandoned houses and are known to be vengeful who causes sickness for their enemies. They usually curse those who have harmed them, intentional or not, sometimes even cursing those who just looked at them wrong. [^1]
@@ -58,6 +58,7 @@ They usually use rag dolls, needles or pins. When they plan to curse an enemy or
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---

@@ -19,7 +19,7 @@ image: Mambabarang.jpg
 > ⠀
 > ###### Taxonomy
 > **Ramos-Taxonomy**:: 
-> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Aswang|Aswang]]
+> **Samar-Taxonomy**:: [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 The [[Mambabarang|Mambabarang]] is a person who posseses "barang" or all the evil knowledge in witchraft. [^1]
@@ -40,6 +40,7 @@ The ailments cannot be cured by doctors which may cause the victims to go crazy 
 
 
 ### Other Mentions
+- [[../Classifications/Samar Taxonomy/Mga Aswang|Mga Aswang]]
 
 
 ---
